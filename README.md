@@ -11,7 +11,7 @@ HOW TO SET-UP:
 
 You will need to have both SAMMI Core as well as OBS installed & linked to one another. On OBS create a scene called "Alerts" to hold all our Alert and Text sources. (You can also make two optional scenes called "HUD" and "Credits" where you will keep all the optional sources.) Each alert will need at least 1 text box and 1 media/effect source. Once set up, all sources should be left marked "not visible" in OBS. 
 
-All sources called "... Alert" refer to media or effects that you want to play when that Alert is triggered. All sources called "... Text" refer to the text that appears on screen when the associated Alert is triggered. All sources called "HUD ..." refer to an optional button to have your most recent contributors name cycle somewhere on screen. For more information see button "HUD". "Saving to Credits" Section refers to an optional button end-of-stream credits of all your contributors for that session. For more information, see button "End Credits". 
+All audio files need to be saved as ".OGG". All sources called "... Alert" refer to media or effects that you want to play when that Alert is triggered. All sources called "... Text" refer to the text that appears on screen when the associated Alert is triggered. All sources called "HUD ..." refer to an optional button to have your most recent contributors name cycle somewhere on screen. For more information see button "HUD". "Saving to Credits" Section refers to an optional button end-of-stream credits of all your contributors for that session. For more information, see button "End Credits". 
 
 
 HOW TO CUSTOMIZE:
